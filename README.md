@@ -24,7 +24,7 @@ Library-Management-System/
 │   ├── transaction.py                
 │
 ├── Project Document.pdf              # Comprehensive project documentation (e.g., design, report)
-├── README.md                         
+└── README.md                         
 ```
 
 ## Prerequisites
