@@ -5,10 +5,11 @@ A Library Management System (LMS) can significantly enhance the efficiency of li
 
 ## Prerequisites
 **1. Integrated Development Environment (IDE):** Visual Studio Code, PyCharm etc.
-**2. [Python](https://www.python.org/downloads/)**
+
+**2. Python:** [Python Installation](https://www.python.org/downloads/)
 
 ## Report
-- [Project Proposal](Project Document.pdf)
+[Project Proposal](https://github.com/rudritarahman/Library-Management-System/blob/master/Project%20Document.pdf)
 
 ## Project status
 - [x] This is a complete project.
